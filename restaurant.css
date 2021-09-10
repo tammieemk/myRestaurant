@@ -1,0 +1,86 @@
+body{
+    /* background-image: url("backgroundImage.jpg"); */
+    background-color:#e9edc9;
+    font-family: 'Dancing Script', cursive;
+    font-size: 15px;
+    color:#252422;
+}
+
+.description{
+    font:29px; 
+}
+
+.latte{
+    color:#ffb5a7;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+#logo-div{
+    text-align: center;
+}
+
+.description{
+   padding:50px;
+
+}
+#ik .idk{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+.idk {
+    text-align: center;
+    list-style: none;
+}
+
+#ik .idek{
+    text-decoration: none;
+}
+
+#ik{
+    text-align: center;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+}
+
+.grid-items{
+ padding: 20px;
+text-align: center;
+}
+
+.logo{
+    border: 3px solid white;
+}
+
+.heading{
+    text-align: center;
+    font-size: 25px;
+}
+ 
+.logo:hover{
+    opacity:0.5;
+}
+
+.idek{
+    color:#252422 ;
+    font-size: 15px;
+}
+
+a:hover{
+  color: whitesmoke;
+}
+
+form{
+    text-align: center;
+     width: 50%; 
+    margin: auto;
+}
+
+ 
