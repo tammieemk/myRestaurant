@@ -1,0 +1,58 @@
+body{ background-color: #fc8eac;
+    font-size: medium;
+    font-family:'Rochester', cursive;
+}
+
+#city{
+    text-align: center;
+}
+
+.heading{
+      font:30px
+
+}
+
+#headings .heading{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.heading{
+    text-align: center;
+}
+
+.class{
+    text-align: center;
+}
+
+.welcome{
+    text-align: center;
+}
+
+.welcome-speech{
+    text-align: center;
+}
+
+.story{
+    text-align:right;
+}
+
+#mini-autobiography{
+    text-align:left;
+}
+
+.pics{
+    border: 5px solid  rgba(255, 204, 221, 0.966)
+}
+
+textarea{
+    row-gap: 10;
+    column-span: 20;
+}
+
+form{
+    text-align: center;
+     width: 50%; 
+    margin: auto;
+}
